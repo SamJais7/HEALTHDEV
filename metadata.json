@@ -1,0 +1,9 @@
+{
+  "name": "Copy of HealthDev by RedBulls",
+  "description": "A unified platform connecting patients, hospitals, ambulances, and doctors for efficient emergency and routine healthcare management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
