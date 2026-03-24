@@ -1,5 +1,5 @@
 ## A swift emergency healthcare app (under development)
-
+**A origionally ideated hackathon project**
 ## Run Locally
 
 **Prerequisites:**  Node.js
